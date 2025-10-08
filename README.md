@@ -18,42 +18,42 @@ L’obiettivo di questa repo è **documentare la mia crescita** e creare una rac
 
 ## 🧭 Struttura della repository
 
-python-learning/
-│
-├── README.md
-│ ↳ Questo file: descrive la struttura della repo e il suo scopo.
-│
-├── requirements.txt
-│ ↳ (Facoltativo) Elenca eventuali librerie esterne utilizzate in alcuni progetti.
-│
-├── .gitignore
-│ ↳ Esclude file temporanei, cache di Python (pycache), ambienti virtuali, ecc.
-│
-├── 00_basics/
-│ ↳ Concetti fondamentali di Python:
-│ - Sintassi base, variabili e tipi di dato
-│ - Input/output da tastiera
-│ - Condizioni (if/else)
-│ - Cicli (for, while)
-│ - Liste, tuple, set e dizionari
-│ - Esercizi semplici per consolidare la logica
-│
-├── 01_intermediate/
-│ ↳ Esercizi e mini-progetti di livello intermedio:
-│ - Funzioni e moduli personalizzati
-│ - Gestione dei file (lettura e scrittura)
-│ - Eccezioni e gestione degli errori
-│ - Utilizzo di librerie standard (datetime, random, os, ecc.)
-│ - Mini progetti organizzati in sottocartelle (es. calcolatrice, generatore di password)
-│
-├── 02_advanced/
-│ ↳ Argomenti e progetti avanzati:
-│ - Programmazione orientata agli oggetti (OOP)
-│ - Uso di API esterne con requests
-│ - Interfacce grafiche (Tkinter, PyQt, ecc.)
-│ - Database (SQLite, SQLAlchemy)
-│ - Manipolazione dati e automazione
-│
+### python-learning/
+
+### README.md
+ ↳ Questo file: descrive la struttura della repo e il suo scopo.
+
+### requirements.txt
+ ↳ (Facoltativo) Elenca eventuali librerie esterne utilizzate in alcuni progetti.
+
+### .gitignore
+ ↳ Esclude file temporanei, cache di Python (pycache), ambienti virtuali, ecc.
+
+### 00_basics/
+ ↳ Concetti fondamentali di Python:
+ - Sintassi base, variabili e tipi di dato
+ - Input/output da tastiera
+ - Condizioni (if/else)
+ - Cicli (for, while)
+ - Liste, tuple, set e dizionari
+ - Esercizi semplici per consolidare la logica
+
+### 01_intermediate/
+ ↳ Esercizi e mini-progetti di livello intermedio:
+ - Funzioni e moduli personalizzati
+ - Gestione dei file (lettura e scrittura)
+ - Eccezioni e gestione degli errori
+ - Utilizzo di librerie standard (datetime, random, os, ecc.)
+ - Mini progetti organizzati in sottocartelle (es. calcolatrice, generatore di password)
+
+### 02_advanced/
+ ↳ Argomenti e progetti avanzati:
+ - Programmazione orientata agli oggetti (OOP)
+ - Uso di API esterne con requests
+ - Interfacce grafiche (Tkinter, PyQt, ecc.)
+ - Database (SQLite, SQLAlchemy)
+ - Manipolazione dati e automazione
+
 ### projects/
 ↳ Progetti completi e autonomi:
 - Applicazioni più grandi che combinano diversi concetti
