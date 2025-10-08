@@ -73,9 +73,6 @@ python-learning/
 • Funzionalità principali
 • Come eseguirlo
 
-yaml
-Copy code
-
 ---
 
 ## 📘 Come seguire i progressi
