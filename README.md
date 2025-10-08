@@ -18,18 +18,18 @@ L’obiettivo di questa repo è **documentare la mia crescita** e creare una rac
 
 ## 🧭 Struttura della repository
 
-# python-learning
+### python-learning
 
-## README.md
+***README.md***
 Descrive la struttura della repository e il suo scopo.
 
-## requirements.txt (facoltativo)
+***requirements.txt (facoltativo)***
 Elenca eventuali librerie esterne utilizzate in alcuni progetti.
 
-## .gitignore
+***.gitignore***
 Esclude file temporanei, cache di Python (`__pycache__`), ambienti virtuali, ecc.
 
-## 00_basics
+***00_basics***
 - Sintassi base, variabili e tipi di dato
 - Input/output da tastiera
 - Condizioni (`if/else`)
@@ -37,21 +37,21 @@ Esclude file temporanei, cache di Python (`__pycache__`), ambienti virtuali, ecc
 - Liste, tuple, set e dizionari
 - Esercizi semplici per consolidare la logica
 
-## 01_intermediate
+***01_intermediate***
 - Funzioni e moduli personalizzati
 - Gestione dei file (lettura e scrittura)
 - Eccezioni e gestione degli errori
 - Utilizzo di librerie standard (`datetime`, `random`, `os`, ecc.)
 - Mini progetti organizzati in sottocartelle (es. calcolatrice, generatore di password)
 
-## 02_advanced
+***02_advanced***
 - Programmazione orientata agli oggetti (OOP)
 - Uso di API esterne con `requests`
 - Interfacce grafiche (Tkinter, PyQt, ecc.)
 - Database (SQLite, SQLAlchemy)
 - Manipolazione dati e automazione
 
-## projects
+***projects***
 Progetti completi e autonomi:
 - Applicazioni più grandi che combinano diversi concetti
 - Piccoli giochi, utility o app CLI/GUI
