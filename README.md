@@ -18,7 +18,7 @@ L’obiettivo di questa repo è **documentare la mia crescita** e creare una rac
 
 ## 🧭 Struttura della repository
 
-python-learning/
+### python-learning/
   README.md
     -> Descrive la struttura della repository e il suo scopo.
   requirements.txt (facoltativo)
@@ -45,14 +45,13 @@ python-learning/
     - Database (SQLite, SQLAlchemy)
     - Manipolazione dati e automazione
   projects/
-    -> Progetti completi e autonomi.
-
-    - Applicazioni più grandi che combinano diversi concetti
-    - Piccoli giochi, utility o app CLI/GUI
-    - Ogni progetto include un proprio README.md che spiega:
-    - Scopo del progetto
-    - Funzionalità principali
-    - Come eseguirlo
+    - Progetti completi e autonomi:
+      - Applicazioni più grandi che combinano diversi concetti
+      - Piccoli giochi, utility o app CLI/GUI
+      - Ogni progetto include un proprio README.md che spiega:
+      - Scopo del progetto
+      - Funzionalità principali
+      - Come eseguirlo
 
 ---
 
