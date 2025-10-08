@@ -18,8 +18,6 @@ L’obiettivo di questa repo è **documentare la mia crescita** e creare una rac
 
 ## 🧭 Struttura della repository
 
-### python-learning
-
 ***README.md***
 
 Descrive la struttura della repository e il suo scopo.
