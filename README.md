@@ -21,6 +21,7 @@ L’obiettivo di questa repo è **documentare la mia crescita** e creare una rac
 ### python-learning
 
 ***README.md***
+
 Descrive la struttura della repository e il suo scopo.
 
 ***requirements.txt (facoltativo)***
