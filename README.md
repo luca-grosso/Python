@@ -16,16 +16,6 @@ L’obiettivo di questa repo è **documentare la mia crescita** e creare una rac
 
 ---
 
-## 📖 Indice
-
-- [🧭 Struttura della repository](#-struttura-della-repository)
-- [📘 Come seguire i progressi](#-come-seguire-i-progressi)
-- [🧩 Obiettivi futuri](#-obiettivi-futuri)
-- [💡 Note personali](#-note-personali)
-- [📬 Contatti](#-contatti)
-
----
-
 ## 🧭 Struttura della repository
 
 python-learning/
@@ -64,7 +54,7 @@ python-learning/
 │ - Database (SQLite, SQLAlchemy)
 │ - Manipolazione dati e automazione
 │
-└── projects/
+### projects/
 ↳ Progetti completi e autonomi:
 - Applicazioni più grandi che combinano diversi concetti
 - Piccoli giochi, utility o app CLI/GUI
